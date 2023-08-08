@@ -1,13 +1,18 @@
+/* Rearranged the attributes in CSS to flow evenly with the HTML document as well as condensed to avoid redundancey */
+
+/* Universal selector, sets border, padding, margin of the page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Element Selector for the body of the HTML, sets background color */
 body {
     background-color: #d9dcd6;
 }
 
+/* Element selector for the header of HTML, adjusts padding, font and background color */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,16 +20,19 @@ header {
     color: #ffffff;
 }
 
+/* Element selector for Company Name in header, displays inline as a block with font size */
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* Class selector for styling Company Name, highlights "seo" in different shade */
 .seo {
     color: #d9dcd6;
     font: 'Trebuchet';
 }
 
+/* Element selector for navigation bar in header, adjust padding, placement and font */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,20 +41,24 @@ header nav {
     font-size: 20px;
 }
 
+/* Element selector for navigation bar, sets as undored list with no style */
 header nav ul {
     list-style-type: none;
 }
 
+/* Element selector of list in navigaiton bar, sets inline as well margin side and px */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* Element selector for anchors in list, sets color of text */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Class selector, sets size, margin, positioning, and image for background image */
 .background-img {
     height: 800px;
     width: 100%;
@@ -56,12 +68,14 @@ a {
     background-position: center;
 }
 
+/* Element selector of container, sets width, display as inline block and postioning */
 container {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Class selector for list of services, sets margin, padding, height, font and color */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -71,30 +85,35 @@ container {
     color: #ffffff;
 }
 
+/* Class selector of descrition of services, sets margin and font size */
 .services h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Element selector, sets paragraph font size */
 p {
     font-size: 16px;
 }
 
+/* Class selector of services images, sets max height */
 .services img {
     max-height: 200px;
 }
 
+/* Class selector of services images, floats image to left of text */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-
+/* Class selector of services images, floats image to right of text */
 .float-right {
     float: right;
     margin-left: 25px
 }
 
+/* Element selector of side section, sets margin, padding, postioning, width, height, and font */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -106,23 +125,26 @@ aside {
     background-color: #2589bd;
 }
 
+/* Class selector, sets margin for benefit class and color */
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/* Class selector for text in benefit class, sets margin and alignment */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Class selector for benefit imgages, sets dislplay as block as well as margin and px */
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Element selector for footer, sets padding, font and aliginment */
 footer {
     padding: 30px;
     clear: both;
@@ -130,6 +152,7 @@ footer {
     text-align: center;
 }
 
+/* Element selector, sets font size in text of footer */
 footer h2 {
     font-size: 20px;
 }
