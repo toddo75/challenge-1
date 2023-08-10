@@ -31,6 +31,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Screenshot
+
+![image](https://github.com/toddo75/challenge-1/assets/139024688/8094f994-23fc-43c8-bf5b-d6f365fb790d)
+
 
 ## Link
 
