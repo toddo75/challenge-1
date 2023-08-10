@@ -33,8 +33,7 @@ THEN I find a concise, descriptive title
 ```
 ## Screenshot
 
-![image](https://github.com/toddo75/challenge-1/assets/139024688/ee24db5d-c731-4d71-9ef5-043eca710d62)
-
+![toddo75 github io_challenge-1_ (2)screenshot](https://github.com/toddo75/challenge-1/assets/139024688/e867ad75-fa0b-4ce8-b142-82e74f6957a7)
 
 ## Link
 
