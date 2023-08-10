@@ -33,8 +33,9 @@ THEN I find a concise, descriptive title
 ```
 ## Screenshot
 
-![image](https://github.com/toddo75/challenge-1/assets/139024688/8094f994-23fc-43c8-bf5b-d6f365fb790d)
-
+![image](https://github.com/toddo75/challenge-1/assets/139024688/a2d66166-0258-4091-b8e9-d8092620d8be)
+![image](https://github.com/toddo75/challenge-1/assets/139024688/af387454-0a16-41d0-a1f1-16d68a8a4a73)
+![image](https://github.com/toddo75/challenge-1/assets/139024688/54836b1c-0d81-4f1a-9ebe-02140930a385)
 
 ## Link
 
