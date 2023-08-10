@@ -34,8 +34,15 @@ THEN I find a concise, descriptive title
 
 ## Link
 
+https://toddo75.github.io/challenge-1/
 
+## Contributions
 
+Horiseon Social Solution Services, Inc.
+
+## Licenses
+
+See license in repo
 
 
 
